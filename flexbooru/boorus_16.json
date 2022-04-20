@@ -1,1 +1,91 @@
-
+[
+    {
+        "name": "Sample",
+        "host": "moe.fiepi.com",
+        "hash_salt": "onlymash--your-password--",
+        "type": 1
+    },
+    {
+        "name": "Danbooru",
+        "host": "danbooru.donmai.us",
+        "type": 0
+    },
+    {
+        "name": "Safebooru",
+        "host": "safebooru.donmai.us",
+        "type": 0
+    },
+    {
+        "name": "Yande.re",
+        "host": "yande.re",
+        "hash_salt": "choujin-steiner--your-password--",
+        "type": 1
+    },
+    {
+        "name": "Konachan",
+        "host": "konachan.com",
+        "hash_salt": "So-I-Heard-You-Like-Mupkids-?--your-password--",
+        "type": 1
+    },
+    {
+        "name": "Sakugabooru",
+        "host": "www.sakugabooru.com",
+        "hash_salt": "er@!$rjiajd0$!dkaopc350!Y%)--your-password--",
+        "type": 1
+    },
+    {
+        "name": "3dbooru",
+        "scheme": "http",
+        "host": "behoimi.org",
+        "hash_salt": "meganekko-heaven--your-password--",
+        "type": 2
+    },
+    {
+        "name": "Gelbooru",
+        "host": "gelbooru.com",
+        "type": 3
+    },
+    {
+        "name": "hypnohub",
+        "host": "hypnohub.net",
+        "hash_salt": "--your-password--",
+        "type": 1
+    },
+    {
+        "name": "e621.net",
+        "host": "e621.net",
+        "type": 0
+    },
+    {
+        "name": "e926.net",
+        "host": "e926.net",
+        "type": 0
+    },
+    {
+        "name": "lolibooru.moe",
+        "host": "lolibooru.moe",
+        "hash_salt": "--your-password--",
+        "type": 1
+    },
+    {
+        "name": "rule34.xxx",
+        "host": "rule34.xxx",
+        "type": 6
+    },
+    {
+        "name": "Sankaku",
+        "host": "capi-v2.sankakucomplex.com",
+        "type": 4
+    },
+    {
+        "name": "rule34.paheal.net",
+        "scheme": "http",
+        "host": "rule34.paheal.net",
+        "type": 5
+    },
+    {
+        "name": "safebooru.org",
+        "host": "safebooru.org",
+        "type": 6
+    }
+]
