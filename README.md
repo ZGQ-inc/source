@@ -57,6 +57,6 @@ https://t.me/EXTM3U
 •原消息：
 https://t.me/ZGQincLiqun/1240
 
-> 以上所有源**失效不补**
+> *以上所有源**失效不补**
 > 
-> 包含NSFW内容。
+> *包含NSFW内容。
