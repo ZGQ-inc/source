@@ -2,6 +2,9 @@
 
 > 统一使用网络导入，长按复制。
 
+[个人主页](https://zgq-inc.github.io/homepage/)｜[备用主页]
+https://zgq-inc.github.io/ZGQ-inc/)
+
 ## 阅读3.0 & 阅读Pro
 
 •**阅读Pro**下载地址：
