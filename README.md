@@ -1,6 +1,6 @@
 # 书源、图源、订阅源、规则、直播源、各种源 大型整合
 
-> 统一使用网络导入，长按复制。
+> 长按复制。
 
 ## [个人主页](https://zgq-inc.github.io/homepage/)｜[备用主页](https://zgq-inc.github.io/ZGQ-inc/)
 
@@ -13,12 +13,21 @@ http://a.ruansky.com/up/496273
 https://www.ghxi.com/newread.html
 
 •新增重新打包11463个书源（建议连接代理后导入）：
+
+[一键导入](yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/11463/bookSource_11463.json)
+
 `https://github.com/ZGQ-inc/source/releases/download/11463/bookSource_11463.json`
 
 •5794个书源
+
+[一键导入](yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/bookSource_5794.json)
+
 `https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/bookSource_5794.json`
 
 •902个RSS订阅源
+
+[一键导入](yuedu://rsssource/importonline?src=https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_902.json)
+
 `https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_902.json`
 
 ## 异次元
