@@ -18,8 +18,8 @@ https://www.ghxi.com/newread.html
 •5794个书源
 `https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/bookSource_5794.json`
 
-•523个RSS订阅源
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_523.json`
+•902个RSS订阅源
+`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_902.json`
 
 ## 异次元
 
