@@ -13,7 +13,7 @@ http://a.ruansky.com/up/496273
 
 https://www.ghxi.com/newread.html
 
-阅读3.0 & 阅读Pro支持一键导入
+<big>阅读3.0 & 阅读Pro支持一键导入</big>
 
 [点此查看](https://zgq-inc.github.io/source/import.html)
 
