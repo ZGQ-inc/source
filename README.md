@@ -101,6 +101,22 @@ https://t.me/EXTM3U
 
 https://t.me/ZGQincLiqun/1240
 
+## Sync
+
+**Sync**下载地址：
+
+http://a.ruansky.com/up/213373
+
+•SyncKey分享：
+
+电报频道：
+
+https://t.me/shenkey
+
+•原消息：
+
+https://t.me/ZGQincLiqun/1239
+
 > *以上所有源**失效不补**
 > 
 > *包含NSFW内容。
