@@ -14,7 +14,7 @@ https://www.ghxi.com/newread.html
 
 •新增重新打包12240个书源（建议连接代理后导入）：
 
-[点此一键导入](yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json)
+<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json">点此一键导入</a>
 
 网络导入：
 
@@ -28,7 +28,7 @@ https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json
 
 •907个RSS订阅源
 
-[点此一键导入](yuedu://rsssource/importonline?src=https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_907.json)
+<a href="yuedu://rsssource/importonline?src=https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_907.json">点此一键导入</a>
 
 网络导入：
 
