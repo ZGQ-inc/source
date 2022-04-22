@@ -83,7 +83,15 @@ http://a.ruansky.com/up/488076
 
 http://a.ruansky.com/up/421994
 
-•流媒体M3U/M3U8链接分享EXTM3U：
+•流媒体M3U/M3U8链接分享：
+
+Github项目：
+
+[iptv-org/iptv](https://github.com/iptv-org/iptv)
+
+[iptv-restream/iptv-channels](https://github.com/iptv-restream/iptv-channels)
+
+[yayanheeh/iptv](https://github.com/yayanheeh/iptv)
 
 电报频道：
 
