@@ -12,29 +12,21 @@ http://a.ruansky.com/up/496273
 
 https://www.ghxi.com/newread.html
 
-•新增重新打包11463个书源（建议连接代理后导入）：
+•新增重新打包12240个书源（建议连接代理后导入）：
 
-[点此一键导入](yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/11463/bookSource_11463.json)
-
-网络导入：
-
-`https://github.com/ZGQ-inc/source/releases/download/11463/bookSource_11463.json`
-
-•5794个书源
-
-[点此一键导入](yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/bookSource_5794.json)
+[点此一键导入](yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json)
 
 网络导入：
 
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/bookSource_5794.json`
+`https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json`
 
-•902个RSS订阅源
+•907个RSS订阅源
 
-[点此一键导入](yuedu://rsssource/importonline?src=https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_902.json)
+[点此一键导入](yuedu://rsssource/importonline?src=https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_907.json)
 
 网络导入：
 
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_902.json`
+`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_907.json`
 
 ## 异次元
 
