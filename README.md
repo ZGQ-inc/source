@@ -77,6 +77,10 @@ http://a.ruansky.com/up/488076
 
 [点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/16/boorus_16.json)
 
+•原消息：
+
+https://t.me/ZGQincLiqun/1240
+
 ## IPTV
 
 •IPTV下载地址：
