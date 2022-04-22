@@ -20,6 +20,12 @@ https://www.ghxi.com/newread.html
 
 `https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json`
 
+本地导入：
+
+> 如果以上2种方法无法导入，请使用本地导入。
+
+https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json
+
 •907个RSS订阅源
 
 [点此一键导入](yuedu://rsssource/importonline?src=https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_907.json)
