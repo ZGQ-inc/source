@@ -2,6 +2,7 @@
 
 ## [个人主页](https://zgq-inc.github.io/homepage/)｜[备用主页](https://zgq-inc.github.io/ZGQ-inc/)
 
+> 如果导入过慢，请连接代理后导入。
 ## 阅读3.0 & 阅读Pro
 
 •**阅读Pro**下载地址：
@@ -12,9 +13,11 @@ http://a.ruansky.com/up/496273
 
 https://www.ghxi.com/newread.html
 
-•新增重新打包12240个书源（建议连接代理后导入）：
+阅读3.0 & 阅读Pro支持一键导入
 
-<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json">点此一键导入</a>
+[点此查看](https://zgq-inc.github.io/source/import.html)
+
+•12240个书源：
 
 网络导入：
 
@@ -24,11 +27,9 @@ https://www.ghxi.com/newread.html
 
 > 如果以上2种方法无法导入，请使用本地导入。
 
-https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json
+[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json)
 
 •907个RSS订阅源
-
-<a href="yuedu://rsssource/importonline?src=https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_907.json">点此一键导入</a>
 
 网络导入：
 
@@ -56,13 +57,13 @@ https://www.ghxi.com/andhksj.html
 
 文件导入：
 
-https://github.com/ZGQ-inc/source/releases/download/288/share-home-rules_288.json
+[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/288/share-home-rules_288.json)
 
 •应用数据
 
 文件导入：
 
-https://github.com/ZGQ-inc/source/releases/download/288/hiker_data.zip
+[点击下载zip文件](https://github.com/ZGQ-inc/source/releases/download/288/hiker_data.zip)
 
 ## Flexbooru
 
@@ -74,7 +75,7 @@ http://a.ruansky.com/up/488076
 
 文件导入：
 
-https://github.com/ZGQ-inc/source/releases/download/16/boorus_16.json
+[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/16/boorus_16.json)
 
 ## IPTV
 
@@ -83,6 +84,8 @@ https://github.com/ZGQ-inc/source/releases/download/16/boorus_16.json
 http://a.ruansky.com/up/421994
 
 •流媒体M3U/M3U8链接分享EXTM3U：
+
+电报频道：
 
 https://t.me/EXTM3U
 
