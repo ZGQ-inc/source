@@ -17,11 +17,11 @@ https://www.ghxi.com/newread.html
 
 [点此查看](https://zgq-inc.github.io/source/import.html)
 
-•12240个书源：
+•12253个书源：
 
 网络导入：
 
-`https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json`
+`https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12253.json`
 
 本地导入：
 
@@ -34,6 +34,18 @@ https://www.ghxi.com/newread.html
 网络导入：
 
 `https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_907.json`
+
+•119个朗读引擎
+
+网络导入：
+
+`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/httpTTS_119.json`
+
+•26个净化规则
+
+网络导入：
+
+`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/replaceRule_26.json`
 
 ## 异次元
 
