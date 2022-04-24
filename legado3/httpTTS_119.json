@@ -1,0 +1,870 @@
+[
+  {
+    "concurrentRate": "0",
+    "id": -100,
+    "name": "0",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4127&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=11&vol=5&aue=6&pit=3&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1642042170403,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "A 使用说明",
+    "url": "B打头的是男声（boy）\nG打头的是女声（girl）\n\n     搜狗调节语速在  speaking_rate  后面的数字那里，调节范围 0.7-1.3 ，会跳段，但我不会改🌚\n     \n     百度调节语速在   speakSpeed + 5) / 10 + 4   修改那个\"4\"所在的数字或者直接调语速关掉跟随系统\n     \n     谷歌调节在    speak    后面的数字，范围应该是0.1-1。\n     \n❗高亮：我只是收集整理者，感谢制作者无私分享Orz"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1632566322117,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "B AI搜狗-康哥 标准",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=kangge-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1638704968680,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "B AI搜狗-男声 醇厚 多语种",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=male-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1.1&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1631629366603,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "B AI搜狗-阿华 低沉",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=ahua-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1.2&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1631629295893,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "B AI搜狗-阿星",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=axing-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1.2&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1631629234467,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "B AI搜狗-青峰 磁性 缓",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=qingfeng-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1.2&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1619429810522,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "B4003 缓慢起伏",
+    "url": "http://tsn.baidu.com/text2audio,{\n\"method\": \"POST\",\n\"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 4) / 10 + 4}}&per=4003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=232&vol=6&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "header": "",
+    "id": 1629600575261,
+    "loginCheckJs": "",
+    "loginUrl": "",
+    "name": "B4114 百度评书AI",
+    "url": "http://ai.baidu.com/aidemo?type=tns&spd=5&rate=32&pit=5&vol=15&dt=1&per=4114&tex={{java.encodeURI(java.encodeURI(speakText))}}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616293099580,
+    "name": "B4123 百度解说",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4123&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1641554389554,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "B4127 激情澎湃",
+    "url": "http://tts.baidu.com/text2audio,{\n\"method\": \"POST\",\n\"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 4) / 10 + 3}}&per=4127&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=6&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1609477968101,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "B4127 百度主持",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4127&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1619327360255,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "B4127 磁性男声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4127&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=5&aue=6&pit=3&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1616293174972,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "B4129 青少年音",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4129&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1631629178301,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G AI搜狗-夕月 御姐",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=xiyue-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1.1&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1638704914363,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G AI搜狗-女声 温和 多语种",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=female-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1.1&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1631629488909,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G AI搜狗-婉清 冷清",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=wanqing-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1638704528366,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G AI搜狗-帅帅",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=shuaishuai-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1638704689436,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G AI搜狗-思思 新闻",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=sisi-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1.1&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1638704526755,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G AI搜狗-晶晶 标准",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=jingjing-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1629607537953,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G AI搜狗-若曦 柔和缓慢",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=xf5-pro&text={{encodeURIComponent(speakText)}}&speaking_rate=1.1&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1629618404969,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G AI搜狗-雅妮 温柔",
+    "url": "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=yani-pro&text={{(java.encodeURI(speakText))}} &speaking_rate=1&volume=1"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 0,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G 小爱同学-蜜糖",
+    "url": "https://xbdhgj.ksmobile.com/api/voice/repost_tts?pdt=7247&&token=03AGdBq24_MmdU0dH25IaHZee43wf4PqmCBleNwjqGZzHwo_mlCzJqVNSVpH-mZhy8Bq5zjhXCQdNZ-dc9F3ni5WID0WfvkKmYmDqQIvdsNa3wv_O1JQ-t0qs5hpZn1EYb6yBmAtGqQGAQuggQydonEMWf3-QmqH0ANlTSqlUwCxYuYry2_Jb30Y5vxDwGaaX_C4fZkm7RDBAI4h6hg9IhT22xb8LxM7H5xxbEht-8cKry7KSgy61EcxbGRntufqujF98kQc0lh0uSUH7miN1TqEUEKeXf1Z7pS_mBUqtDtZmGo6OHHD3Hh0CchRKgIqgBWUJxD5z8dkSPn9lq7HOhrMuDHM7PgO6WaZLOlWlbeLNngp3pQevjKhz-hgV7HCRNGbpVTDNttH9393BLC9NivSQdAFkepNROxdGAX3an5wF7ZdO3zGxdZWnofS61BjMjjn_Q6sPw9aa4&sn=77482f17-d83c-12a6-9dee-5681b89686d4&sid=77482f17-d83c-12a6-9dee-5681b89686d4&tex={{java.encodeURI(java.encodeURI(speakText))}}&per=0&pit=5&vol=5&spd=5\n\n"
+  },
+  {
+    "concurrentRate": "0",
+    "header": "",
+    "id": 1634035764676,
+    "loginCheckJs": "",
+    "loginUrl": "",
+    "name": "G 微软小娜",
+    "url": "https://o-oo.net.cn/speak.php?a={{encodeURIComponent(speakText)}}&b=zh-chs"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1632019596388,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G 思必驰 灵动女声",
+    "url": "https://dds.dui.ai/runtime/v1/synthesize?voiceId=madoufp_yubo&text={{java.encodeURI(java.encodeURI(speakText))}}&speed=1.1&volume=100&audioType=wav"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1629944015316,
+    "name": "G 讯飞小琳（台普）",
+    "url": "http://120.24.87.124/cgi-bin/ekho2.pl?cmd=SPEAK&voice=iflytekXiaolin&speedDelta=0&pitchDelta=0&volumeDelta=0&text={{java.encodeURI(java.encodeURI(speakText))}}\n"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1629944057248,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G 讯飞小美（粤语）(自我感觉这个粤语比较好听)",
+    "url": "http://120.24.87.124/cgi-bin/ekho2.pl?cmd=SPEAK&voice=iflytekXiaomei&speedDelta=0&pitchDelta=0&volumeDelta=0&text={{java.encodeURI(java.encodeURI(speakText))}}\n"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1629947822538,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G 谷歌中文",
+    "url": "https://www.google.cn/speech-api/v2/synthesize?key=AIzaSyCkfPOPZXDKNn8hhgu3JrA62wIgC93d44k&enc=mpeg&client=chromium&text={{encodeURIComponent(speakText)}}&lang=zh-ch&speed=0.5"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1629950695699,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G 谷歌台湾",
+    "url": "https://www.google.cn/speech-api/v2/synthesize?key=AIzaSyCkfPOPZXDKNn8hhgu3JrA62wIgC93d44k&enc=mpeg&client=chromium&text={{encodeURIComponent(speakText)}}&lang=zh-tw&speed=0.6"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1629947937286,
+    "name": "G 谷歌粤语",
+    "url": "https://www.google.cn/speech-api/v2/synthesize?key=AIzaSyCkfPOPZXDKNn8hhgu3JrA62wIgC93d44k&enc=mpeg&client=chromium&text={{encodeURIComponent(speakText)}}&lang=zh-HK&speed=0.5\n\n"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1617431710811,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G0100 标准女声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 3}}&per=100&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "header": "",
+    "id": 1619280545173,
+    "loginCheckJs": "",
+    "loginUrl": "",
+    "name": "G0110 度小童",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=110&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=232&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1617430899339,
+    "name": "G1200 普通女声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=1200&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160&vol=&rate=32=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1632921843536,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G2200 低哑女声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=2200&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=6&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1619291804146,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G4117 优雅女声",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4117&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1622487411299,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G4125 沙雕女声(这个声音真的贼沙雕好玩)",
+    "url": "http://tts.baidu.com/text2audio,{\n\"method\": \"POST\",\n\"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 4) / 10 + 3}}&per=4125&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=6&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "header": "",
+    "id": 1617429726281,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "G4126 缓慢女声(贼拉催眠)",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4126&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -99,
+    "name": "zaixianai.cn",
+    "url": "<js>\nlet url='https://www.zaixianai.cn/voiceCompose';\n\nlet ua=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36\";\n\nlet doc=java.get(url,{\"User-Agent\":ua});\nlet cookie=String(doc.header(\"set-cookie\")).match(/laravel_session=[^\\n]+/)[0];\nlet token=String(doc.body()).match(/token=\"([^\"]+)/)[1];\n\nurl='https://www.zaixianai.cn/Api_getVoice,'+JSON.stringify({\n\"method\": \"POST\",\n\"body\": \"content=\" + java.encodeURI(speakText) + \"&volume=50&speech_rate=0&voice=Aixia&_token=\"+token,\n\"headers\": {\n\"User-Agent\": ua,\n\"cookie\": cookie\n}\n});\n\nlet res=java.ajax(url);\n\n'https://www.zaixianai.cn/voice/'+JSON.parse(res).data.file_name+','+JSON.stringify({\n\"headers\": {\n\"User-Agent\": ua,\n\"accept\": \"*/*\",\n\"referer\": \"https://www.zaixianai.cn/voiceCompose\",\n\"cookie\": cookie,\n\"accept-encoding\": \"identity;q=1, *;q=0\"\n}\n})\n</js>"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616128045471,
+    "name": "♠️丫丫♠️",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616128911929,
+    "name": "♥️小美♥️",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=0&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -98,
+    "name": "台湾女声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4007&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -1,
+    "name": "度丫丫",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029307,
+    "name": "度丫丫",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=4&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029310,
+    "name": "度博文",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -2,
+    "name": "度博文①",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -3,
+    "name": "度博文②",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -4,
+    "name": "度博文③",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -97,
+    "name": "度小乔",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=1117&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160=&vol=5&aue=6&pit=3&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -5,
+    "name": "度小娇",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029308,
+    "name": "度小娇",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=5&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -6,
+    "name": "度小宇",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=1&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029305,
+    "name": "度小宇",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=1&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -96,
+    "name": "度小童",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=110&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -7,
+    "name": "度小童",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=110&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029311,
+    "name": "度小童",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=110&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -95,
+    "name": "度小粤",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=0&cuid=baidu_speech_demo&idx=1&cod=2&lan=cte&ctp=1&pdt=160&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -8,
+    "name": "度小美",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=0&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029304,
+    "name": "度小美",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=0&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -94,
+    "name": "度小芳",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4125&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -9,
+    "name": "度小萌",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=111&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029312,
+    "name": "度小萌",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=111&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -93,
+    "name": "度小贤",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4115&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160=&vol=5&aue=6&pit=5&_res_tag_=audio\"}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -92,
+    "name": "度小雯",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5100&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160=&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -10,
+    "name": "度小鹿①",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4118&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -11,
+    "name": "度小鹿②",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5118&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -12,
+    "name": "度小鹿③",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4119&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -91,
+    "name": "度灵儿",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5105&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160=&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029309,
+    "name": "度米朵",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=103&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -13,
+    "name": "度米朵①",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=103&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -14,
+    "name": "度米朵②",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4103&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029306,
+    "name": "度逍遥",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=3&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -15,
+    "name": "度逍遥-基础",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=3&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -16,
+    "name": "度逍遥-精品①",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -17,
+    "name": "度逍遥-精品②",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -18,
+    "name": "情感女声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4105&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -19,
+    "name": "情感男声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4115&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -20,
+    "name": "标准女声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4100&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -90,
+    "name": "标准女声-基础",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=100&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -21,
+    "name": "标准男声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4121&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -22,
+    "name": "治愈女声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5120&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -23,
+    "name": "治愈男声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5121&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -89,
+    "name": "温柔女声",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4126&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -88,
+    "name": "甜美女声①",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=1200&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160&vol=&rate=32=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -24,
+    "name": "甜美女声①",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4117&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -25,
+    "name": "甜美女声②",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5117&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -87,
+    "name": "百度主持",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4127&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=11&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -26,
+    "name": "百度主持",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=9&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029315,
+    "name": "百度主持",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=9&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -86,
+    "name": "百度解说①",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4123&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -85,
+    "name": "百度解说②",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4128&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -84,
+    "name": "百度解说③",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4129&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=12&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029314,
+    "name": "百度评书",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=6&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -27,
+    "name": "百度评书①",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=6&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -28,
+    "name": "百度评书②",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4114&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1598233029313,
+    "name": "百度骚男",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=11&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -83,
+    "name": "萝莉少女音",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5201&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=160&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": -29,
+    "name": "阿里云语音",
+    "url": "<js>/*播音人Aiting可改其他https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/speaker.json，详见https://ai.aliyun.com/nls/tts*/;eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiting')</js>"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616128506639,
+    "name": "🌊小娇🌊",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616130717220,
+    "name": "🌱主持🌱",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=9&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616127707051,
+    "name": "🌿小鹿🌿",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4118&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=15&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616127949279,
+    "name": "🍀小鹿🍀",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4119&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=15&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616129147295,
+    "name": "🍉米朵🍉",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=103&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616129232015,
+    "name": "🍊米朵🍊",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4103&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=15&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616128997626,
+    "name": "🍋小萌🍋",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=111&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616127849864,
+    "name": "🍓逍遥🍓",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=3&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=15&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616169147359,
+    "name": "🎊逍遥🎊",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616127024769,
+    "name": "🎨逍遥🎨",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=11&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616128561958,
+    "name": "🐟博文🐟",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616128390712,
+    "name": "🐬博文🐬",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616128163728,
+    "name": "🐳博文🐳",
+    "url": ""
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616128643201,
+    "name": "💕小宇💕",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=1&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616169716651,
+    "name": "💖评书💖",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4114&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=11&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616127149736,
+    "name": "💝评书💝",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=6&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=17&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616130633662,
+    "name": "😀甜美女声😀",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5117&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=15&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616129836464,
+    "name": "😁情感女声😁",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4105&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=15&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616130086247,
+    "name": "😃标准男声😃",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4121&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=15&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616129937086,
+    "name": "😄情感男声😄",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4115&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=15&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616130390973,
+    "name": "😆甜美女声😆",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4117&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=15&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "id": 1616169243944,
+    "name": "😊治愈女声😊",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5120&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=5&pit=5&_res_tag_=audio\"\n}"
+  }
+]
