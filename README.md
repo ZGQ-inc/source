@@ -3,6 +3,9 @@
 ## [个人主页](https://zgq-inc.github.io/homepage/)｜[备用主页](https://zgq-inc.github.io/ZGQ-inc/)
 
 > 如果导入过慢，请连接代理后导入。
+
+***
+
 ## 阅读3.0 & 阅读Pro
 
 •**阅读Pro**下载地址：
@@ -132,6 +135,18 @@ https://t.me/shenkey
 •原消息：
 
 https://t.me/ZGQincLiqun/1239
+
+## RSSHub
+
+**Pluma**下载地址：
+
+http://a.ruansky.com/up/261336/
+
+RSSHub文档：
+
+https://docs.rsshub.app/
+
+***
 
 > *以上所有源**失效不补**
 > 
