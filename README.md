@@ -17,11 +17,11 @@ https://www.ghxi.com/newread.html
 
 [点此查看](https://zgq-inc.github.io/source/import.html)
 
-•12253个书源：
+•12278个书源：
 
 网络导入：
 
-`https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12253.json`
+`https://github.com/ZGQ-inc/source/releases/download/12278/bookSource_12278.json`
 
 本地导入：
 
@@ -29,11 +29,11 @@ https://www.ghxi.com/newread.html
 
 [点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json)
 
-•907个RSS订阅源
+•945个RSS订阅源
 
 网络导入：
 
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_907.json`
+`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_945.json`
 
 •119个朗读引擎
 
