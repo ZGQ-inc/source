@@ -20,35 +20,39 @@ https://www.ghxi.com/newread.html
 
 [点此查看](https://zgq-inc.github.io/source/import.html)
 
-•12278个书源：
+•12474个书源：
 
 网络导入：
 
-`https://github.com/ZGQ-inc/source/releases/download/12278/bookSource_12278.json`
+`https://github.com/ZGQ-inc/source/releases/download/12474/bookSource_12474.json`
 
 本地导入：
 
 > 如果以上2种方法无法导入，请使用本地导入。
 
-[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/12240/bookSource_12240.json)
+[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/12474/bookSource_12474.json)
 
-•945个RSS订阅源
-
-网络导入：
-
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_945.json`
-
-•119个朗读引擎
+•950个RSS订阅源
 
 网络导入：
 
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/httpTTS_119.json`
+`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_950.json`
 
-•26个净化规则
+•197个朗读引擎
 
 网络导入：
 
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/replaceRule_26.json`
+`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/httpTTS_197.json`
+
+•35个净化规则
+
+网络导入：
+
+`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/replaceRule_35.json`
+
+•源仓库
+
+http://ku.mumuceo.com/
 
 ## 异次元
 
