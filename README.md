@@ -1,6 +1,6 @@
 # 书源、图源、订阅源、规则、直播源、各种源 大型整合
 
-## [个人主页](https://zgq-inc.github.io/homepage/)｜[备用主页](https://zgq-inc.github.io/ZGQ-inc/)
+## [个人主页](https://zgq-inc.github.io)
 
 > 如果导入过慢，请连接代理后导入。
 
