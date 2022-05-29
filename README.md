@@ -34,15 +34,11 @@ https://www.ghxi.com/newread.html
 
 •957个RSS订阅源
 
-网络导入：
-
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/exportRssSource_957.json`
+请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
 •197个朗读引擎
 
-网络导入：
-
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/httpTTS_197.json`
+请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
 •35个净化规则
 
