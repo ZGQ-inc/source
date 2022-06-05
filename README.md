@@ -24,11 +24,9 @@ https://www.ghxi.com/newread.html
 
 网络导入：
 
-`https://github.com/ZGQ-inc/source/releases/download/12509/bookSource_12509.json`
+请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
 本地导入：
-
-> 如果以上2种方法无法导入，请使用本地导入。
 
 [点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/12509/bookSource_12509.json)
 
@@ -44,7 +42,7 @@ https://www.ghxi.com/newread.html
 
 网络导入：
 
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/legado3/replaceRule_35.json`
+请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
 •源仓库
 
@@ -60,7 +58,7 @@ https://www.ghxi.com/ycymh.html
 
 网络导入：
 
-`https://cdn.jsdelivr.net/gh/ZGQ-inc/source@master/cospa/2022-04-20_555.txt`
+`https://zgq-inc.github.io/source/cospa/2022-04-20_555.txt`
 
 ## 海阔视界
 
