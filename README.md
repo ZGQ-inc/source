@@ -40,8 +40,6 @@ https://www.ghxi.com/newread.html
 
 •35个净化规则
 
-网络导入：
-
 请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
 •源仓库
