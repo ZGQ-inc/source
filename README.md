@@ -106,6 +106,8 @@ Github项目：
 
 [iptv-restream/iptv-channels](https://github.com/iptv-restream/iptv-channels)
 
+[imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+
 [yayanheeh/iptv](https://github.com/yayanheeh/iptv)
 
 电报频道：
