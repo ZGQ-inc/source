@@ -58,6 +58,16 @@ https://www.ghxi.com/ycymh.html
 
 `https://zgq-inc.github.io/source/cospa/2022-04-20_555.txt`
 
+## Cimoc
+
+•**Cimoc**下载地址：
+
+https://github.com/Haleydu/Cimoc
+
+配套图源：
+
+`https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json`
+
 ## 海阔视界
 
 •**海阔视界**下载地址：
