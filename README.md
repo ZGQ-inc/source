@@ -90,7 +90,7 @@ https://www.ghxi.com/andhksj.html
 
 •**Flexbooru**下载地址：
 
-http://a.ruansky.com/up/488076
+http://a.ruansky.com/up/707845
 
 •16个booru网站配置
 
