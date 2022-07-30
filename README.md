@@ -20,7 +20,7 @@ https://www.ghxi.com/newread.html
 
 [点此查看](https://zgq-inc.github.io/source/import.html)
 
-•12562个书源：
+•12669个书源：
 
 网络导入：
 
@@ -30,7 +30,7 @@ https://www.ghxi.com/newread.html
 
 [点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/12562/bookSource_12562.json)
 
-•957个RSS订阅源
+•1043个RSS订阅源
 
 请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
