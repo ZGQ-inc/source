@@ -122,7 +122,7 @@ Github项目：
 
 电报频道：
 
-https://t.me/EXTM3U
+https://t.me/EXM3U
 
 •原消息：
 
