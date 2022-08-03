@@ -20,7 +20,7 @@ https://www.ghxi.com/newread.html
 
 [点此查看](https://zgq-inc.github.io/source/import.html)
 
-•12669个书源：
+•12707个书源：
 
 网络导入：
 
@@ -30,15 +30,19 @@ https://www.ghxi.com/newread.html
 
 [点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/12562/bookSource_12562.json)
 
-•1043个RSS订阅源
+•1049个RSS订阅源
 
 请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
-•197个朗读引擎
+•286个朗读引擎
 
 请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
-•35个净化规则
+•191个净化规则
+
+请使用[一键导入](https://zgq-inc.github.io/source/import.html)
+
+•18个目录规则
 
 请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
