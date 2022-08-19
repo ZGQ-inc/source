@@ -35,8 +35,8 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script src="clipboard.min.js"></script>
     <script>
-      var btn = document.getElementById('btn');
-      var clipboard = new ClipboardJS(btn);
+      var btns = document.querySelectorAll('button');
+      var clipboard = new ClipboardJS(btns);
 
       clipboard.on('success', function (e) {
         console.info('Action:', e.action);
