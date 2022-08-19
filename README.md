@@ -12,19 +12,33 @@
 
 [点此查看](https://zgq-inc.github.io/source/import.html)
 
-• 12707个书源：
+• 12737个书源：
 
 网络导入：
 
-请使用[一键导入](https://zgq-inc.github.io/source/import.html)
+```
+https://github.com/ZGQ-inc/source/releases/download/12737/bookSource_12737.json
+```
+
+<button data-clipboard-text="https://github.com/ZGQ-inc/source/releases/download/12737/bookSource_12737.json" onclick="clicka();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/12562/bookSource_12562.json)
+[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/12737/bookSource_12737.json)
 
-• 1049个RSS订阅源
+• 1087个RSS订阅源
 
-请使用[一键导入](https://zgq-inc.github.io/source/import.html)
+网络导入：
+
+```
+https://zgq-inc.github.io/source/legado3/exportRssSource_1087.json
+```
+
+<button data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1087.json" onclick="clicka();">点此复制</button>
+
+本地导入：
+
+[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1049.json)
 
 • 286个朗读引擎
 
