@@ -50,6 +50,8 @@
 
 `https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt`
 
+<button class="btn" data-clipboard-text="https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt">点此复制</button>
+
 ## Cimoc
 
 • [**Cimoc**下载地址](https://github.com/Haleydu/Cimoc)
