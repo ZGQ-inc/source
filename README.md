@@ -50,7 +50,7 @@
 
 `https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt`
 
-<button data-clipboard-text="https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt">Copy</button>
+<button data-clipboard-text="https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt" onclick="clicka();">Copy</button>
 
 ## Cimoc
 
