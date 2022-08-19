@@ -48,9 +48,11 @@
 
 网络导入：
 
-`https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt`
+```
+https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt
+```
 
-<button data-clipboard-text="https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt" onclick="clicka();">Copy</button>
+<button data-clipboard-text="https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt" onclick="clicka();">点此复制</button>
 
 ## Cimoc
 
@@ -58,7 +60,11 @@
 
 配套图源：
 
-`https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json`
+```
+https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json
+```
+
+<button data-clipboard-text="https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json" onclick="clicka();">点此复制</button>
 
 ## 海阔视界
 
