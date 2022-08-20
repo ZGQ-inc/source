@@ -13,6 +13,74 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
+  <style media="screen">
+    @keyframes fadeIn {
+      0%    {opacity: 0}
+      100%  {opacity: 1}
+    }
+    @-webkit-keyframes fadeIn {
+      0%    {opacity: 0}
+      100%  {opacity: 1}
+    }
+    @-moz-keyframes fadeIn {
+      0%    {opacity: 0}
+      100%  {opacity: 1}
+    }
+    @-o-keyframes fadeIn {
+      0%    {opacity: 0}
+      100%  {opacity: 1}
+    }
+    @-ms-keyframes fadeIn {
+      0%    {opacity: 0}
+      100%  {opacity: 1}
+    }
+    @keyframes fadeOut {
+      0%    {opacity: 1}
+      100%  {opacity: 0}
+    }
+    @-webkit-keyframes fadeOut {
+      0%    {opacity: 1}
+      100%  {opacity: 0}
+    }
+    @-moz-keyframes fadeOut {
+      0%    {opacity: 1}
+      100%  {opacity: 0}
+    }
+    @-o-keyframes fadeOut {
+      0%    {opacity: 1}
+      100%  {opacity: 0}
+    }
+    @-ms-keyframes fadeOut {
+      0%    {opacity: 1}
+      100%  {opacity: 0}
+    }
+    #toast{
+      background: rgba(0, 0, 0, 0.7);
+      color: #fff;
+      font-size: 18px;
+      line-height: 1;
+      padding:12px;
+      border-radius: 100px;
+      position: absolute;
+      left: 50%;
+      top: 80%;
+      transform: translate(-50%,-50%);
+      -webkit-transform: translate(-50%,-50%);
+      -moz-transform: translate(-50%,-50%);
+      -o-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+      z-index: 9999;
+    }
+    .hide{
+      display: none;
+    }
+    .fadeOut{
+      animation: fadeOut .5s;
+    }
+    .fadeIn{
+      animation:fadeIn .5s;
+    }
+  </style>
   <body>
     <div class="wrapper">
       <header>
@@ -50,24 +118,29 @@
         console.info('Trigger:', e.trigger);
       });
     </script>
-    <script>  
-function showToast(msg,duration){  
-    duration=isNaN(duration)?3000:duration;  
-    var m = document.createElement('div');  
-    m.innerHTML = msg;  
-    m.style.cssText="width:30%; min-width:100px; background:#000; opacity:0.6; height:auto;min-height: 30px; color:#fff; line-height:30px; text-align:center; border-radius:4px; position:fixed; top:80%; left:35%; z-index:999999;";  
-    document.body.appendChild(m);  
-    setTimeout(function() {  
-        var d = 0.5;  
-        m.style.webkitTransition = '-webkit-transform ' + d + 's ease-in, opacity ' + d + 's ease-in';  
-        m.style.opacity = '0'; 
-        setTimeout(function() { document.body.removeChild(m) }, d * 1000);  
-    }, duration);  
-}  
-
+    <script>
+  var toast = function(params){
+    var el = document.createElement("div");
+    el.setAttribute("id","toast");
+    el.innerHTML = params.message;
+    document.body.appendChild(el);
+    el.classList.add("fadeIn");
+    setTimeout(function(){
+      el.classList.remove("fadeIn");
+      el.classList.add("fadeOut");
+      el.addEventListener("animationend", function(){
+        el.classList.add("hide");
+      });
+    },params.time);
+  };
+  
 function clicka(){
-    showToast("复制成功",3000);
+    toast({
+    message:"复制成功",
+    time:2000
+  });
 }
-	</script>   
+
+</script>
   </body>
 </html>
