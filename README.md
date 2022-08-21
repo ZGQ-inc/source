@@ -20,7 +20,7 @@
 https://github.com/ZGQ-inc/source/releases/download/12737/bookSource_12737.json
 ```
 
-<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source/releases/download/12737/bookSource_12737.json" onclick="clicka();">点此复制</button>
+<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source/releases/download/12737/bookSource_12737.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
@@ -34,7 +34,7 @@ https://github.com/ZGQ-inc/source/releases/download/12737/bookSource_12737.json
 https://zgq-inc.github.io/source/legado3/exportRssSource_1087.json
 ```
 
-<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1087.json" onclick="clicka();">点此复制</button>
+<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1087.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
@@ -66,7 +66,7 @@ https://zgq-inc.github.io/source/legado3/exportRssSource_1087.json
 https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt
 ```
 
-<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt" onclick="clicka();">点此复制</button>
+<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt" onclick="showToast();">点此复制</button>
 
 ## Cimoc
 
@@ -78,7 +78,7 @@ https://zgq-inc.github.io/source/cospa/2022-07-06_562.txt
 https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json
 ```
 
-<button class="button" data-clipboard-text="https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json" onclick="clicka();">点此复制</button>
+<button class="button" data-clipboard-text="https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json" onclick="showToast();">点此复制</button>
 
 ## 海阔视界
 
