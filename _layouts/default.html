@@ -72,8 +72,11 @@
         <p>&copy;2022 ZGQ Inc. <span>All rights reserved</span>.</p>
       </footer>
     </div>
+    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    
     <script src="clipboard.min.js"></script>
+    
     <script>
       var btns = document.querySelectorAll('button');
       var clipboard = new ClipboardJS(btns);
@@ -90,6 +93,7 @@
         console.info('Trigger:', e.trigger);
       });
     </script>
+    
 	<script>
     	var Toast = {};
 Toast.toast = function(msg) {
@@ -108,12 +112,12 @@ Toast.toast = function(msg) {
     }, 1500)
 }
 	</script>
-
+	
     <script>
-
         function showToast() {
             Toast.toast("复制成功");   
         }
     </script>
+    
   </body>
 </html>
