@@ -98,7 +98,7 @@ https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json
 
 ## Flexbooru
 
-• [**Flexbooru**下载地址](http://a.ruansky.com/up/707845)
+• [**Flexbooru**下载地址](http://a.ruansky.com/up/1045075)
 
 • 16个booru网站配置
 
