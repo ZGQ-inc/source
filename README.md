@@ -10,7 +10,7 @@
 
 ### 阅读3.0 & 阅读Pro支持一键导入
 
-[点此查看](import.html)
+[点此查看](https://zgq-inc.github.io/source/import.html)
 
 • 12963个书源：
 
@@ -38,19 +38,19 @@ https://zgq-inc.github.io/source/legado3/exportRssSource_1151.json
 
 本地导入：
 
-[点击下载json文件](legado3/exportRssSource_1049.json)
+[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1049.json)
 
 • 286个朗读引擎
 
-请使用[一键导入](import.html)
+请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
 • 191个净化规则
 
-请使用[一键导入](import.html)
+请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
 • 18个目录规则
 
-请使用[一键导入](import.html)
+请使用[一键导入](https://zgq-inc.github.io/source/import.html)
 
 • [源仓库](https://yckceo.vip/)
 
