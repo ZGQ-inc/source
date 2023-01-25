@@ -10,7 +10,7 @@
 
 • 12963个书源：
 
-<h2><a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/13213/bookSource_13213.json">一键导入</a></h2>
+<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/13213/bookSource_13213.json" class="btn-76">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 网络导入：
 
@@ -26,7 +26,7 @@ https://github.com/ZGQ-inc/source/releases/download/12963/bookSource_12963.json
 
 • 1151个RSS订阅源
 
-<h2><a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json">一键导入</a></h2>
+<a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json" class="btn-76">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 网络导入：
 
@@ -42,15 +42,15 @@ https://zgq-inc.github.io/source/legado3/exportRssSource_1151.json
 
 • 286个朗读引擎
 
-<h2><a href="yuedu://httpTTS/importonline?src=https://zgq-inc.github.io/source/legado3/httpTTS_286.json">一键导入</a></h2>
+<a href="yuedu://httpTTS/importonline?src=https://zgq-inc.github.io/source/legado3/httpTTS_286.json" class="btn-76">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 • 191个净化规则
 
-<h2><a href="yuedu://replaceRule/importonline?src=https://zgq-inc.github.io/source/legado3/replaceRule_191.json">一键导入</a></h2>
+<a href="yuedu://replaceRule/importonline?src=https://zgq-inc.github.io/source/legado3/replaceRule_191.json" class="btn-76">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 • 18个目录规则
 
-<h2><a href="yuedu://txtTocRule/importonline?src=https://zgq-inc.github.io/source/legado3/txtTocRule_20.json">一键导入</a></h2>
+<a href="yuedu://txtTocRule/importonline?src=https://zgq-inc.github.io/source/legado3/txtTocRule_20.json" class="btn-76">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 • [源仓库 yckceo.vip](https://yckceo.vip/)
 
