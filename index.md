@@ -12,6 +12,8 @@
 
 <a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/13213/bookSource_13213.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
+> 书源文件有点大，导入时间取决于设备性能，请耐心等待。
+
 网络导入：
 
 ```
