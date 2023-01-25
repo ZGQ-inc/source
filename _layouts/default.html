@@ -25,13 +25,39 @@
     opacity: 0
 	}
 
-.toast-container.toast-active {
+		.toast-container.toast-active {
     opacity: 1
 	}
 
-.toast-message-container {
+		.toast-message-container {
     font-size: 16px;
     width: 80px;
+    margin: 15px auto;
+    padding: 10px;
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: rgba(0, 0, 0, 0.7);
+	}
+	
+		.text-container {
+    position: fixed;
+    z-index: 9999;
+    bottom: 75px;
+    left: 1px;
+    right: 1px;
+    -webkit-transition: opacity .8s;
+    transition: opacity .8s;
+    opacity: 0
+	}
+
+		.text-container.text-active {
+    opacity: 1
+	}
+
+		.text-message-container {
+    font-size: 16px;
+    width: 200px;
     margin: 15px auto;
     padding: 10px;
     text-align: center;
@@ -231,8 +257,27 @@ Toast.toast = function(msg) {
     </script>
     
     <script>
+    	var Text = {};
+Text.text = function(msg) {
+    var active = "text-active";
+    var div = document.createElement("div");
+    div.classList.add("text-container")
+    div.innerHTML = '<div class="text-message-container">' + msg + "</div>"
+    div.addEventListener("webkitTransitionEnd", function() {
+        div.classList.contains(active) || div.parentNode.removeChild(div)
+    });
+    document.body.appendChild(div)
+    div.offsetHeight
+    div.classList.add(active)
+    setTimeout(function() {
+        div.classList.remove(active)
+    }, 1500)
+}
+	</script>
+	
+    <script>
         function showText() {
-            Toast.toast("正在跳转阅读APP，请允许跳转");   
+            Text.text("正在跳转阅读APP，请允许跳转");   
         }
     </script>
     
