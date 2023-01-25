@@ -4,7 +4,7 @@
 
 ## 阅读3.0 & 阅读Pro
 
-• [**阅读Pro**下载地址](http://a.ruansky.com/up/496273)
+• [**阅读Pro**下载地址](http://a.ruansky.com/up/1490329)
 
 • [**阅读3.0**下载地址](https://www.ghxi.com/newread.html)
 
