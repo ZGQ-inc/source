@@ -8,7 +8,7 @@
 
 • [**阅读3.0**下载地址](https://www.ghxi.com/newread.html)
 
-• 12963个书源：
+• 13213个书源：
 
 <a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/13213/bookSource_13213.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
@@ -26,21 +26,21 @@ https://github.com/ZGQ-inc/source/releases/download/12963/bookSource_12963.json
 
 [点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/12963/bookSource_12963.json)
 
-• 1151个RSS订阅源
+• 1217个RSS订阅源
 
 <a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 网络导入：
 
 ```
-https://zgq-inc.github.io/source/legado3/exportRssSource_1151.json
+https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json
 ```
 
-<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1151.json" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1049.json)
+[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json)
 
 • 286个朗读引擎
 
@@ -50,7 +50,7 @@ https://zgq-inc.github.io/source/legado3/exportRssSource_1151.json
 
 <a href="yuedu://replaceRule/importonline?src=https://zgq-inc.github.io/source/legado3/replaceRule_191.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
-• 18个目录规则
+• 20个目录规则
 
 <a href="yuedu://txtTocRule/importonline?src=https://zgq-inc.github.io/source/legado3/txtTocRule_20.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
