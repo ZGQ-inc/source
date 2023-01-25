@@ -8,11 +8,9 @@
 
 • [**阅读3.0**下载地址](https://www.ghxi.com/newread.html)
 
-### 阅读3.0 & 阅读Pro支持一键导入
-
-[点此查看](https://zgq-inc.github.io/source/import.html)
-
 • 12963个书源：
+
+<h2><a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/13213/bookSource_13213.json">一键导入</a></h2>
 
 网络导入：
 
@@ -28,6 +26,8 @@ https://github.com/ZGQ-inc/source/releases/download/12963/bookSource_12963.json
 
 • 1151个RSS订阅源
 
+<h2><a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json">一键导入</a></h2>
+
 网络导入：
 
 ```
@@ -42,17 +42,17 @@ https://zgq-inc.github.io/source/legado3/exportRssSource_1151.json
 
 • 286个朗读引擎
 
-请使用[一键导入](https://zgq-inc.github.io/source/import.html)
+<h2><a href="yuedu://httpTTS/importonline?src=https://zgq-inc.github.io/source/legado3/httpTTS_286.json">一键导入</a></h2>
 
 • 191个净化规则
 
-请使用[一键导入](https://zgq-inc.github.io/source/import.html)
+<h2><a href="yuedu://replaceRule/importonline?src=https://zgq-inc.github.io/source/legado3/replaceRule_191.json">一键导入</a></h2>
 
 • 18个目录规则
 
-请使用[一键导入](https://zgq-inc.github.io/source/import.html)
+<h2><a href="yuedu://txtTocRule/importonline?src=https://zgq-inc.github.io/source/legado3/txtTocRule_20.json">一键导入</a></h2>
 
-• [源仓库](https://yckceo.vip/)
+• [源仓库 yckceo.vip](https://yckceo.vip/)
 
 ## 异次元
 
