@@ -8,43 +8,43 @@
 
 • [**阅读3.0**下载地址](https://www.ghxi.com/newread.html)
 
-• 13213个书源：
+• 13358个书源：
 
-<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/13213/bookSource_13213.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/13358/bookSource_13358.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 > 书源文件有点大，导入时间取决于设备性能，请耐心等待。
 
 网络导入：
 
 ```
-https://github.com/ZGQ-inc/source/releases/download/13213/bookSource_13213.json
+https://github.com/ZGQ-inc/source/releases/download/13358/bookSource_13358.json
 ```
 
-<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source/releases/download/13213/bookSource_13213.json" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source/releases/download/13358/bookSource_13358.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/13213/bookSource_13213.json)
+[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/13358/bookSource_13358.json)
 
-• 1217个RSS订阅源
+• 1242个RSS订阅源
 
-<a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1242.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 网络导入：
 
 ```
-https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json
+https://zgq-inc.github.io/source/legado3/exportRssSource_1242.json
 ```
 
-<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1242.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json)
+[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1242.json)
 
-• 286个朗读引擎
+• 303个朗读引擎
 
-<a href="yuedu://httpTTS/importonline?src=https://zgq-inc.github.io/source/legado3/httpTTS_286.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://httpTTS/importonline?src=https://zgq-inc.github.io/source/legado3/httpTTS_303.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 • 191个净化规则
 
@@ -60,15 +60,15 @@ https://zgq-inc.github.io/source/legado3/exportRssSource_1217.json
 
 • [**异次元漫画**下载地址](https://www.ghxi.com/ycymh.html)
 
-• 578个图源
+• 590个图源
 
 网络导入：
 
 ```
-https://zgq-inc.github.io/source/cospa/2023-01-25_578.txt
+https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt
 ```
 
-<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/cospa/2023-01-25_578.txt" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt" onclick="showToast();">点此复制</button>
 
 ## Cimoc
 
