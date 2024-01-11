@@ -2,73 +2,61 @@
 
 ***
 
-## 阅读3.0 & 阅读Pro
+## 开源阅读
 
-• [**阅读Pro**下载地址](http://a.ruansky.com/up/1490329)
+• [**阅读Beta版**下载地址](https://miaogongzi.lanzout.com/b01rgkhhe)（推荐）
 
-• [**阅读3.0**下载地址](https://www.ghxi.com/newread.html)
+• [**阅读3.0**下载地址](https://github.com/gedoor/legado)
 
-• 13358个书源：
+• 18213个书源：
 
-<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/13358/bookSource_13358.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/18213/bookSource_18213.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 > 书源文件有点大，导入时间取决于设备性能，请耐心等待。
 
 网络导入：
 
 ```
-https://github.com/ZGQ-inc/source/releases/download/13358/bookSource_13358.json
+https://github.com/ZGQ-inc/source/releases/download/18213/bookSource_18213.json
 ```
 
-<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source/releases/download/13358/bookSource_13358.json" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source/releases/download/18213/bookSource_18213.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/13358/bookSource_13358.json)
+[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/18213/bookSource_18213.json)
 
-• 1242个RSS订阅源
+• 1367个RSS订阅源
 
-<a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1242.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1367.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 网络导入：
 
 ```
-https://zgq-inc.github.io/source/legado3/exportRssSource_1242.json
+https://zgq-inc.github.io/source/legado3/exportRssSource_1367.json
 ```
 
-<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1242.json" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1367.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1242.json)
+[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1367.json)
 
-• 303个朗读引擎
+• 335个朗读引擎
 
-<a href="yuedu://httpTTS/importonline?src=https://zgq-inc.github.io/source/legado3/httpTTS_303.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://httpTTS/importonline?src=https://zgq-inc.github.io/source/legado3/httpTTS_335.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
-• 191个净化规则
+• 189个净化规则
 
-<a href="yuedu://replaceRule/importonline?src=https://zgq-inc.github.io/source/legado3/replaceRule_191.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://replaceRule/importonline?src=https://zgq-inc.github.io/source/legado3/replaceRule_189.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
-• 20个目录规则
+• 29个目录规则
 
-<a href="yuedu://txtTocRule/importonline?src=https://zgq-inc.github.io/source/legado3/txtTocRule_20.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://txtTocRule/importonline?src=https://zgq-inc.github.io/source/legado3/txtTocRule_29.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
-• [源仓库 yckceo.vip](https://yckceo.vip/)
+## 源仓库
 
-## 异次元
-
-• [**异次元漫画**下载地址](https://www.ghxi.com/ycymh.html)
-
-• 590个图源
-
-网络导入：
-
-```
-https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt
-```
-
-<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt" onclick="showToast();">点此复制</button>
+• [yckceo.vip](https://yckceo.vip/)
 
 ## Cimoc
 
@@ -77,26 +65,10 @@ https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt
 配套图源：
 
 ```
-https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json
+https://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json
 ```
 
-<button class="button" data-clipboard-text="https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json" onclick="showToast();">点此复制</button>
-
-## 海阔视界
-
-• [**海阔视界**下载地址](https://www.ghxi.com/andhksj.html)
-
-• 288个规则
-
-文件导入：
-
-[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/288/share-home-rules_288.json)
-
-• 应用数据
-
-文件导入：
-
-[点击下载zip文件](https://github.com/ZGQ-inc/source/releases/download/288/hiker_data.zip)
+<button class="button" data-clipboard-text="https://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json" onclick="showToast();">点此复制</button>
 
 ## Flexbooru
 
@@ -120,11 +92,7 @@ Github项目：
 
 [iptv-org/iptv](https://github.com/iptv-org/iptv)
 
-[iptv-restream/iptv-channels](https://github.com/iptv-restream/iptv-channels)
-
 [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
-
-[yayanheeh/iptv](https://github.com/yayanheeh/iptv)
 
 电报频道：
 
@@ -151,6 +119,36 @@ Github项目：
 • RSSHub文档：
 
 [docs.rsshub.app](https://docs.rsshub.app/)
+
+## 异次元（已停更）
+
+• [**异次元漫画**下载地址](https://www.ghxi.com/ycymh.html)
+
+• 590个图源
+
+网络导入：
+
+```
+https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt
+```
+
+<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt" onclick="showToast();">点此复制</button>
+
+## 海阔视界（已停更）
+
+• [**海阔视界**下载地址](https://www.ghxi.com/andhksj.html)
+
+• 288个规则
+
+文件导入：
+
+[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/288/share-home-rules_288.json)
+
+• 应用数据
+
+文件导入：
+
+[点击下载zip文件](https://github.com/ZGQ-inc/source/releases/download/288/hiker_data.zip)
 
 ***
 
