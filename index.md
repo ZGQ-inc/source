@@ -8,39 +8,39 @@
 
 - [**阅读3.0**下载地址](https://github.com/gedoor/legado)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-- 18213个书源
+- 18417个书源
 
-<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/18213/bookSource_18213.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/18417/bookSource_18417.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 > 书源文件有点大，导入时间取决于设备性能，请耐心等待。
 
 网络导入：
 
 ```
-https://github.com/ZGQ-inc/source/releases/download/18213/bookSource_18213.json
+https://github.com/ZGQ-inc/source/releases/download/18417/bookSource_18417.json
 ```
 
-<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source/releases/download/18213/bookSource_18213.json" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source/releases/download/18417/bookSource_18417.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/18213/bookSource_18213.json)
+[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/18417/bookSource_18417.json)
 
-- 1367个RSS订阅源
+- 1381个RSS订阅源
 
-<a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1367.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1381.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 网络导入：
 
 ```
-https://zgq-inc.github.io/source/legado3/exportRssSource_1367.json
+https://zgq-inc.github.io/source/legado3/exportRssSource_1381.json
 ```
 
-<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1367.json" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1381.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1367.json)
+[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1381.json)
 
 - 335个朗读引擎
 
