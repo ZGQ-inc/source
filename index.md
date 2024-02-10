@@ -42,7 +42,7 @@ https://zgq-inc.github.io/source/legado3/exportRssSource_1381.json
 
 [点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1381.json)
 
-- 335个朗读引擎
+- 335个TTS朗读引擎
 
 <a href="yuedu://httpTTS/importonline?src=https://zgq-inc.github.io/source/legado3/httpTTS_335.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
@@ -130,7 +130,7 @@ Github项目：
 
 电报频道：
 
-[@aboutrss)](https://t.me/aboutrss)
+[@aboutrss](https://t.me/aboutrss)
 
 ## 异次元（已停更）
 
