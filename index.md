@@ -173,3 +173,11 @@ https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt
 
 ![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 -->
+
+***
+
+## 许可证
+
+![CC](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/) 🄯 进行许可。
