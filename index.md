@@ -2,8 +2,6 @@
 layout: default
 ---
 
-> 如果导入过慢，请连接代理后导入。
-
 ***
 
 <span id="legado"></span>
@@ -14,55 +12,60 @@ layout: default
 
 - [**阅读3.0**下载地址](https://github.com/gedoor/legado)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-- 23041个书源
+- 24130个书源
 
-<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source/releases/download/23041/bookSource_23041.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source_repo/releases/latest/download/bookSource.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+
+网络导入：
+
+```
+https://github.com/ZGQ-inc/source_repo/releases/latest/download/bookSource.json
+```
 
 > 书源文件有点大，导入时间取决于设备性能，请耐心等待。
+> 如果导入过慢，请连接代理或者本地导入。
+
+<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source_repo/releases/latest/download/bookSource.json" onclick="showToast();">点此复制</button>
+
+本地导入：
+
+[点击下载json文件压缩包](https://source-repo.zgqinc.gq/legado3/bookSource.zip)
+
+- 2644个RSS订阅源
+
+<a href="yuedu://rsssource/importonline?src=https://source-repo.zgqinc.gq/legado3/exportRssSource.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 网络导入：
 
 ```
-https://github.com/ZGQ-inc/source/releases/download/23041/bookSource_23041.json
+https://source-repo.zgqinc.gq/legado3/exportRssSource.json
 ```
 
-<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source/releases/download/23041/bookSource_23041.json" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://source-repo.zgqinc.gq/legado3/exportRssSource.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/23041/bookSource_23041.json)
-
-- 1552个RSS订阅源
-
-<a href="yuedu://rsssource/importonline?src=https://zgq-inc.github.io/source/legado3/exportRssSource_1552.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
-
-网络导入：
-
-```
-https://zgq-inc.github.io/source/legado3/exportRssSource_1552.json
-```
-
-<button class="button" data-clipboard-text="https://zgq-inc.github.io/source/legado3/exportRssSource_1552.json" onclick="showToast();">点此复制</button>
-
-本地导入：
-
-[点击下载json文件](https://zgq-inc.github.io/source/legado3/exportRssSource_1552.json)
+[点击下载json文件](https://source-repo.zgqinc.gq/legado3/exportRssSource.json)
 
 - 335个TTS朗读引擎
 
-<a href="yuedu://httpTTS/importonline?src=https://zgq-inc.github.io/source/legado3/httpTTS_335.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://httpTTS/importonline?src=https://source-repo.zgqinc.gq/legado3/httpTts.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 - 189个净化规则
 
-<a href="yuedu://replaceRule/importonline?src=https://zgq-inc.github.io/source/legado3/replaceRule_189.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://replaceRule/importonline?src=https://source-repo.zgqinc.gq/legado3/exportReplaceRule.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 - 29个目录规则
 
-<a href="yuedu://txtTocRule/importonline?src=https://zgq-inc.github.io/source/legado3/txtTocRule_29.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://txtTocRule/importonline?src=https://source-repo.zgqinc.gq/legado3/txtTocRule.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 源仓库：
 
 - [link3.cc/yckceo](https://link3.cc/yckceo)
+
+Yiove 书源仓库：
+
+- [shuyuan.yiove.com](https://shuyuan.yiove.com/)
 
 Github项目：
 
@@ -112,7 +115,7 @@ https://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json
 
 文件导入：
 
-[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/16/boorus_16.json)
+[点击下载json文件](https://source-repo.zgqinc.gq/flexbooru/boorus_16.json)
 
 - [原消息](https://t.me/ZGQincLiqun/1431)
 
@@ -181,7 +184,7 @@ Github项目：
 网络导入：
 
 ```
-https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt
+https://source-repo.zgqinc.gq/cospa/2023-02-01_590.txt
 ```
 
 <button class="button" data-clipboard-text="https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt" onclick="showToast();">点此复制</button>
@@ -194,13 +197,13 @@ https://zgq-inc.github.io/source/cospa/2023-02-01_590.txt
 
 文件导入：
 
-[点击下载json文件](https://github.com/ZGQ-inc/source/releases/download/288/share-home-rules_288.json)
+[点击下载json文件](https://source-repo.zgqinc.gq/hiker/share-home-rules_288.json)
 
 - 应用数据
 
 文件导入：
 
-[点击下载zip文件](https://github.com/ZGQ-inc/source/releases/download/288/hiker_data.zip)
+[点击下载zip文件](https://source-repo.zgqinc.gq/hiker/hiker_data.zip)
 
 ***
 
