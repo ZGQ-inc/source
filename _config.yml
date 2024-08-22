@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+markdown: kramdown
+highlighter: rouge
+theme: null
+title: 各种源
+
+
+exclude:
+  - LICENSE.txt
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
