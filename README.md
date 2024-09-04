@@ -1,3 +1,3 @@
 # 发布地址
 
-## source.zgqinc.gq
+## [source.zgqinc.gq](https://source.zgqinc.gq/)
