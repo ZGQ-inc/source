@@ -1,3 +1,3 @@
 # 发布地址
 
-https://zgq-inc.github.io/source
+## https://source.zgqinc.gq/
