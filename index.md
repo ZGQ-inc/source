@@ -125,7 +125,7 @@ https://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json
 
 - [**IPTV Pro**下载地址](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-- [**PotPlayer**下载地址](https://potplayer.daum.net/)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
+- [**PotPlayer**下载地址](https://potplayer.daum.net/)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZmlsbD0iIzAwNzhENiIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4=&logoColor=0078D6)
 
 - 流媒体M3U/M3U8链接分享
 
@@ -163,7 +163,7 @@ Github项目：
 
 - [**Pluma**下载地址](http://a.ruansky.com/up/261336/)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-- [**Fluent 阅读器**下载地址](https://www.microsoft.com/store/productId/9P71FC94LRH8)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
+- [**Fluent 阅读器**下载地址](https://www.microsoft.com/store/productId/9P71FC94LRH8)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZmlsbD0iIzAwNzhENiIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4=&logoColor=0078D6)
 
 - RSSHub
 
