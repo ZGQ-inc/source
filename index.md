@@ -36,11 +36,11 @@ https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json
 https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json
 ```
 
-<button class="button" id="copytext" data-clipboard-text="https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json
+<button class="button" id="copytext" data-clipboard-text=`https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json
 https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json
 https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json
 https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json
-https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json" onclick="showToast();">点此复制</button>
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json` onclick="showToast();">点此复制</button>
 
 本地导入：
 
