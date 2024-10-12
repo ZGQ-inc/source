@@ -220,8 +220,12 @@
     
     <script src="../assets/js/scale.fix.js"></script>
     
-    <script src="../clipboard.min.js"></script>
+    <script src="../clipboard.js"></script>
     
+    <script>
+      new ClipboardJS('#copytext');
+    </script>
+
     <script>
       var btns = document.querySelectorAll('button');
       var clipboard = new ClipboardJS(btns);
