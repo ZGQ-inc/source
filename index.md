@@ -20,10 +20,10 @@ layout: default
 > 
 > 如果导入过慢，请连接代理或者本地导入。
 
-<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json" class="btn-76" onclick="showText();">一键导入1<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
-<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json" class="btn-76" onclick="showText();">一键导入2<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
-<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json" class="btn-76" onclick="showText();">一键导入3<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
-<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json" class="btn-76" onclick="showText();">一键导入4<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json" class="btn-76" onclick="showText();">一键导入1<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a><br>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json" class="btn-76" onclick="showText();">一键导入2<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a><br>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json" class="btn-76" onclick="showText();">一键导入3<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a><br>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json" class="btn-76" onclick="showText();">一键导入4<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a><br>
 <a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json" class="btn-76" onclick="showText();">一键导入5<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 网络导入：
@@ -36,11 +36,21 @@ https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json
 https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json
 ```
 
-<button class="button" data-clipboard-text="https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json
-https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json
-https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json
-https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json
-https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json" onclick="showToast();">点此复制</button>
+<button class="button" id="data-clipboard-text" onclick="showToast();">点此复制</button>
+
+<script>
+  new ClipboardJS('#data-clipboard-text', {
+    text: function() {
+      return [
+        "https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json",
+        "https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json",
+        "https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json",
+        "https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json",
+        "https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json"
+      ].join('\n');
+    }
+  });
+</script>
 
 本地导入：
 
