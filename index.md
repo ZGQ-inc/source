@@ -12,26 +12,42 @@ layout: default
 
 - [**阅读3.0**下载地址](https://github.com/gedoor/legado)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-- 24130个书源
+- 24767个书源
 
-<a href="yuedu://booksource/importonline?src=https://github.com/ZGQ-inc/source_repo/releases/latest/download/bookSource.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+> ~~书源文件有点大，导入时间取决于设备性能，请耐心等待。~~
+> 
+> 最近发现导入时有概率导致应用卡死，原因是应用堆最大256MB，发生了OOM，现在拆分为多个文件，请逐个导入。
+> 
+> 如果导入过慢，请连接代理或者本地导入。
+
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json" class="btn-76" onclick="showText();">一键导入1<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json" class="btn-76" onclick="showText();">一键导入2<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json" class="btn-76" onclick="showText();">一键导入3<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json" class="btn-76" onclick="showText();">一键导入4<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json" class="btn-76" onclick="showText();">一键导入5<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 网络导入：
 
 ```
-https://github.com/ZGQ-inc/source_repo/releases/latest/download/bookSource.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json
 ```
 
-> 书源文件有点大，导入时间取决于设备性能，请耐心等待。
-> 如果导入过慢，请连接代理或者本地导入。
-
-<button class="button" data-clipboard-text="https://github.com/ZGQ-inc/source_repo/releases/latest/download/bookSource.json" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json\nhttps://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json\nhttps://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json\nhttps://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json
+\nhttps://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件压缩包](https://source-repo.zgqinc.gq/legado3/bookSource.zip)
+[点击下载json文件压缩包1](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json)
+[点击下载json文件压缩包2](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json)
+[点击下载json文件压缩包3](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json)
+[点击下载json文件压缩包4](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json)
+[点击下载json文件压缩包5](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json)
 
-- 2644个RSS订阅源
+- 2695个RSS订阅源
 
 <a href="yuedu://rsssource/importonline?src=https://source-repo.zgqinc.gq/legado3/exportRssSource.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
