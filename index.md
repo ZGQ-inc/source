@@ -36,15 +36,18 @@ https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json
 https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json
 ```
 
-<button class="button" data-clipboard-text="https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json\nhttps://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json\nhttps://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json\nhttps://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json
-\nhttps://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json" onclick="showToast();">点此复制</button>
+<button class="button" data-clipboard-text="https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json" onclick="showToast();">点此复制</button>
 
 本地导入：
 
-[点击下载json文件压缩包1](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json)
-[点击下载json文件压缩包2](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json)
-[点击下载json文件压缩包3](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json)
-[点击下载json文件压缩包4](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json)
+[点击下载json文件压缩包1](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json)<br>
+[点击下载json文件压缩包2](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json)<br>
+[点击下载json文件压缩包3](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json)<br>
+[点击下载json文件压缩包4](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json)<br>
 [点击下载json文件压缩包5](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json)
 
 - 2695个RSS订阅源
