@@ -213,22 +213,22 @@
       left: 0;
       width: 100%;
       z-index: -1;
-      transition: background-color 0.3s, box-shadow 0.3s;
+      transition: border-color 0.3s, box-shadow 0.3s;
     }
   
     .highlighted::after {
       height: 40px;
-      background-color: #006699;
+      border: 2px solid #006699;
       box-shadow: 0 0 0 #006699;
       transform: translateY(10px);
     }
   
     @keyframes flash {
       0%, 100% {
-        background-color: #006699;
+        border-color: #006699;
       }
       50% {
-        background-color: transparent;
+        border-color: transparent;
       }
     }
   
