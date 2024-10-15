@@ -120,7 +120,7 @@ https://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json
 
 <button class="button" data-clipboard-text="https://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json" onclick="showToast();">点此复制</button>
 
-<span id="Flexbooru class="highlight""></span>
+<span id="Flexbooru class="highlight"></span>
 
 ## Flexbooru
 
