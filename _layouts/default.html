@@ -199,11 +199,16 @@
 }
   </style>
   <style>
+        .highlight {
+          z-index: -999;
+        }
+
         .highlight::after {
             content: '';
             display: block;
             height: 0;
             transition: background-color 0.3s, box-shadow 0.3s;
+            z-index: -999;
         }
 
         .highlighted::after {
@@ -224,6 +229,8 @@
 
         .flashing::after {
             animation: flash 1s infinite;
+            position: relative;
+            z-index: -999;
         }
   </style>
   <body>
