@@ -199,42 +199,42 @@
 }
   </style>
   <style>
-        .highlight {
-          position: relative;
-          z-index: -999;
-        }
-
-        .highlight::after {
-            content: '';
-            display: block;
-            height: 0;
-            transition: background-color 0.3s, box-shadow 0.3s;
-            position: fixed;
-            z-index: -999;
-        }
-
-        .highlighted::after {
-            height: 40px;
-            background-color: #006699;
-            box-shadow: 0 0 0 #006699;
-            transform: translateY(10px);
-            z-index: -999;
-        }
-
-        @keyframes flash {
-            0%, 100% {
-                background-color: #006699;
-            }
-            50% {
-                background-color: transparent;
-            }
-        }
-
-        .flashing::after {
-            animation: flash 1s infinite;
-            position: relative;
-            z-index: -999;
-        }
+    .highlight {
+      position: relative;
+      z-index: 1;
+    }
+  
+    .highlight::after {
+      content: '';
+      display: block;
+      height: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: -1;
+      transition: background-color 0.3s, box-shadow 0.3s;
+    }
+  
+    .highlighted::after {
+      height: 40px;
+      background-color: #006699;
+      box-shadow: 0 0 0 #006699;
+      transform: translateY(10px);
+    }
+  
+    @keyframes flash {
+      0%, 100% {
+        background-color: #006699;
+      }
+      50% {
+        background-color: transparent;
+      }
+    }
+  
+    .flashing::after {
+      animation: flash 1s infinite;
+    }
   </style>
   <body>
     <div class="wrapper">
