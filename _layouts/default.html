@@ -200,6 +200,7 @@
   </style>
   <style>
         .highlight {
+          position: relative;
           z-index: -999;
         }
 
@@ -208,6 +209,7 @@
             display: block;
             height: 0;
             transition: background-color 0.3s, box-shadow 0.3s;
+            position: fixed;
             z-index: -999;
         }
 
@@ -216,6 +218,7 @@
             background-color: #006699;
             box-shadow: 0 0 0 #006699;
             transform: translateY(10px);
+            z-index: -999;
         }
 
         @keyframes flash {
