@@ -200,16 +200,16 @@
   </style>
   <style>
         .highlight {
-          position: relative;
+          position: absolute;
           z-index: -999;
         }
 
         .highlight::after {
-            content: '↓↓↓';
+            content: '';
             display: block;
             height: 0;
             transition: background-color 0.3s, box-shadow 0.3s;
-            position: fixed;
+            position: absolute;
             z-index: -999;
         }
 
@@ -218,6 +218,7 @@
             background-color: #006699;
             box-shadow: 0 0 0 #006699;
             transform: translateY(10px);
+            position: absolute;
             z-index: -999;
         }
 
@@ -232,7 +233,7 @@
 
         .flashing::after {
             animation: flash 1s infinite;
-            position: relative;
+            position: absolute;
             z-index: -999;
         }
   </style>
