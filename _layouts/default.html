@@ -214,13 +214,14 @@
       width: 100%;
       z-index: -1;
       transition: border-color 0.3s, box-shadow 0.3s;
+      transform: translateX(-5px);
     }
   
     .highlighted::after {
       height: 40px;
-      border: 2px solid #006699;
+      border: 160px solid #006699;
       box-shadow: 0 0 0 #006699;
-      transform: translateY(10px);
+      transform: translate(-5px, 10px);
     }
   
     @keyframes flash {
