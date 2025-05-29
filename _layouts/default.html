@@ -404,27 +404,27 @@
     @keyframes psychoFlash {
       0% { 
         filter: hue-rotate(0deg) blur(0) drop-shadow(0 0 0 red);
-        transform: scale(1) rotate(0deg) skew(0deg);
+        transform: scale(1.5) rotate(0deg) skew(0deg) translateY(100px);
       }
       20% { 
         filter: hue-rotate(720deg) blur(5px) drop-shadow(0 0 20px #00ff00);
-        transform: scale(3) rotate(180deg) skew(30deg);
+        transform: scale(2.8) rotate(180deg) skew(30deg) translateY(150px);
       }
       40% { 
         filter: hue-rotate(1440deg) blur(10px) drop-shadow(0 0 30px #0000ff);
-        transform: scale(0.5) rotate(360deg) skew(-60deg);
+        transform: scale(0.8) rotate(360deg) skew(-60deg) translateY(200px);
       }
       60% { 
         filter: hue-rotate(2160deg) blur(15px) drop-shadow(0 0 40px #ff00ff);
-        transform: scale(2.5) rotate(540deg) skew(45deg);
+        transform: scale(3.2) rotate(540deg) skew(45deg) translateY(120px);
       }
       80% { 
         filter: hue-rotate(2880deg) blur(20px) drop-shadow(0 0 50px #ffff00);
-        transform: scale(0.3) rotate(720deg) skew(-90deg);
+        transform: scale(0.5) rotate(720deg) skew(-90deg) translateY(180px);
       }
       100% { 
         filter: hue-rotate(3600deg) blur(0) drop-shadow(0 0 100px #00ffff);
-        transform: scale(1) rotate(900deg) skew(0deg);
+        transform: scale(1.8) rotate(900deg) skew(0deg) translateY(100px);
       }
     }
     
@@ -433,19 +433,23 @@
       position: relative;
       z-index: 99999 !important;
       mix-blend-mode: difference;
-      border: 10px dashed rgba(255,0,255,0.7) !important;
-      outline: 5px dotted #00ff00 !important;
+      border: 15px double rgba(255,0,255,0.7) !important;
+      outline: 8px groove #00ff00 !important;
       box-shadow: 
-        0 0 50px 20px #ff0000,
-        inset 0 0 30px 15px #0000ff !important;
+        0 0 80px 30px #ff0000,
+        inset 0 0 50px 25px #0000ff !important;
       background: 
-        repeating-linear-gradient(
-          45deg,
+        repeating-radial-gradient(
+          circle at center,
           #ff00ff,
-          #ff00ff 10px,
-          #00ffff 10px,
-          #00ffff 20px
+          #ff00ff 15px,
+          #00ffff 15px,
+          #00ffff 30px
         ) !important;
+      width: 120% !important;
+      left: -10% !important;
+      padding: 30px !important;
+      margin: 20px 0 !important;
     }
   `;
       document.head.appendChild(crazyStyles);
@@ -453,11 +457,11 @@
       // 随机扭曲函数
       function applyRandomDistortion(element) {
         const distortions = [
-          'matrix(1, 0.5, -0.5, 1, 0, 0)',
-          'matrix(0.8, 0.8, -0.8, 0.8, 20, -20)',
-          'matrix(1.2, -0.3, 0.3, 1.2, -30, 10)',
-          'matrix(0.7, 0, 0, 0.7, 50, 50)',
-          'matrix(1.5, 0.9, -0.9, 1.5, -40, -40)'
+          'matrix(1.2, 0.6, -0.6, 1.2, 0, 50)',
+          'matrix(1.5, 0.9, -0.9, 1.5, 20, 70)',
+          'matrix(0.9, -0.4, 0.4, 0.9, -30, 80)',
+          'matrix(1.3, 0, 0, 1.3, 50, 100)',
+          'matrix(1.8, 1.1, -1.1, 1.8, -40, 120)'
         ];
 
         const randomDistort = distortions[Math.floor(Math.random() * distortions.length)];
@@ -466,23 +470,26 @@
 
       // 添加疯狂元素
       function addPsychoElements(target) {
-        const glitchClones = 5;
+        const glitchClones = 7;
         for (let i = 0; i < glitchClones; i++) {
           const clone = target.cloneNode(true);
           clone.style.position = 'absolute';
-          clone.style.top = `${Math.random() * 30 - 15}px`;
-          clone.style.left = `${Math.random() * 30 - 15}px`;
+          clone.style.top = `${Math.random() * 100 + 50}px`; // 向下位移更多
+          clone.style.left = `${Math.random() * 100 - 50}px`;
           clone.style.opacity = '0.7';
           clone.style.zIndex = '9999';
           clone.style.pointerEvents = 'none';
-          clone.style.filter = `hue-rotate(${Math.random() * 360}deg) blur(${Math.random() * 5}px)`;
+          clone.style.filter = `hue-rotate(${Math.random() * 360}deg) blur(${Math.random() * 8}px)`;
+          clone.style.width = `${100 + Math.random() * 50}%`; // 随机宽度
+          clone.style.transform = `scaleX(${1.5 + Math.random()})`; // 水平拉伸
           clone.classList.add('insane-highlight');
           target.parentNode.appendChild(clone);
 
           // 随机移动克隆体
           setInterval(() => {
-            clone.style.top = `${Math.random() * 60 - 30}px`;
-            clone.style.left = `${Math.random() * 60 - 30}px`;
+            clone.style.top = `${Math.random() * 150 + 50}px`; // 主要在下部区域移动
+            clone.style.left = `${Math.random() * 200 - 100}px`;
+            clone.style.transform = `scaleX(${1.3 + Math.random() * 0.8}) rotate(${Math.random() * 45}deg)`;
           }, 50 + Math.random() * 100);
         }
       }
@@ -503,6 +510,12 @@
         if (target) {
           target.classList.add('highlighted', 'insane-highlight');
 
+          // 强制增加宽度和向下位移
+          target.style.width = '130%';
+          target.style.marginTop = '80px';
+          target.style.marginBottom = '40px';
+          target.style.padding = '40px';
+
           // 应用随机扭曲
           applyRandomDistortion(target);
 
@@ -511,8 +524,9 @@
 
           // 随机颜色变化
           const colorInterval = setInterval(() => {
-            target.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
-          }, 100);
+            target.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 70%)`;
+            target.style.borderColor = `hsl(${Math.random() * 360}, 100%, 60%)`;
+          }, 80);
 
           // 最终清理
           setTimeout(() => {
@@ -524,7 +538,7 @@
             document.querySelectorAll('.insane-highlight').forEach(clone => {
               if (clone.parentNode) clone.parentNode.removeChild(clone);
             });
-          }, 4500);
+          }, 5000); // 延长效果时间
         }
       }
 
