@@ -358,9 +358,177 @@
       Text.text("正在跳转阅读APP，请允许跳转");
     }
   </script>
-  
+
   <script>
+    // document.addEventListener("DOMContentLoaded", function () {
+    //   if (window.location.hash) {
+    //     highlightAnchor(window.location.hash);
+    //   }
+
+    //   window.addEventListener("hashchange", function () {
+    //     highlightAnchor(window.location.hash);
+    //   });
+
+    //   function highlightAnchor(anchor) {
+    //     document.querySelectorAll('.highlight').forEach(el => {
+    //       el.classList.remove('highlighted', 'flashing');
+    //     });
+
+    //     const target = document.querySelector(anchor);
+    //     if (target) {
+    //       target.classList.add('highlighted');
+    //       setTimeout(() => {
+    //         target.classList.add('flashing');
+    //       }, 500);
+
+    //       setTimeout(() => {
+    //         target.classList.remove('flashing');
+    //       }, 4500);
+    //     }
+    //   }
+    // });
+
+
+
+
+
+
+
+
+
+
     document.addEventListener("DOMContentLoaded", function () {
+      // 动态创建疯狂样式
+      const crazyStyles = document.createElement('style');
+      crazyStyles.innerHTML = `
+    @keyframes psychoFlash {
+      0% { 
+        filter: hue-rotate(0deg) blur(0) drop-shadow(0 0 0 red);
+        transform: scale(1) rotate(0deg) skew(0deg);
+      }
+      20% { 
+        filter: hue-rotate(720deg) blur(5px) drop-shadow(0 0 20px #00ff00);
+        transform: scale(3) rotate(180deg) skew(30deg);
+      }
+      40% { 
+        filter: hue-rotate(1440deg) blur(10px) drop-shadow(0 0 30px #0000ff);
+        transform: scale(0.5) rotate(360deg) skew(-60deg);
+      }
+      60% { 
+        filter: hue-rotate(2160deg) blur(15px) drop-shadow(0 0 40px #ff00ff);
+        transform: scale(2.5) rotate(540deg) skew(45deg);
+      }
+      80% { 
+        filter: hue-rotate(2880deg) blur(20px) drop-shadow(0 0 50px #ffff00);
+        transform: scale(0.3) rotate(720deg) skew(-90deg);
+      }
+      100% { 
+        filter: hue-rotate(3600deg) blur(0) drop-shadow(0 0 100px #00ffff);
+        transform: scale(1) rotate(900deg) skew(0deg);
+      }
+    }
+    
+    .insane-highlight {
+      animation: psychoFlash 0.2s infinite alternate;
+      position: relative;
+      z-index: 99999 !important;
+      mix-blend-mode: difference;
+      border: 10px dashed rgba(255,0,255,0.7) !important;
+      outline: 5px dotted #00ff00 !important;
+      box-shadow: 
+        0 0 50px 20px #ff0000,
+        inset 0 0 30px 15px #0000ff !important;
+      background: 
+        repeating-linear-gradient(
+          45deg,
+          #ff00ff,
+          #ff00ff 10px,
+          #00ffff 10px,
+          #00ffff 20px
+        ) !important;
+    }
+  `;
+      document.head.appendChild(crazyStyles);
+
+      // 随机扭曲函数
+      function applyRandomDistortion(element) {
+        const distortions = [
+          'matrix(1, 0.5, -0.5, 1, 0, 0)',
+          'matrix(0.8, 0.8, -0.8, 0.8, 20, -20)',
+          'matrix(1.2, -0.3, 0.3, 1.2, -30, 10)',
+          'matrix(0.7, 0, 0, 0.7, 50, 50)',
+          'matrix(1.5, 0.9, -0.9, 1.5, -40, -40)'
+        ];
+
+        const randomDistort = distortions[Math.floor(Math.random() * distortions.length)];
+        element.style.transform = `${element.style.transform} ${randomDistort}`;
+      }
+
+      // 添加疯狂元素
+      function addPsychoElements(target) {
+        const glitchClones = 5;
+        for (let i = 0; i < glitchClones; i++) {
+          const clone = target.cloneNode(true);
+          clone.style.position = 'absolute';
+          clone.style.top = `${Math.random() * 30 - 15}px`;
+          clone.style.left = `${Math.random() * 30 - 15}px`;
+          clone.style.opacity = '0.7';
+          clone.style.zIndex = '9999';
+          clone.style.pointerEvents = 'none';
+          clone.style.filter = `hue-rotate(${Math.random() * 360}deg) blur(${Math.random() * 5}px)`;
+          clone.classList.add('insane-highlight');
+          target.parentNode.appendChild(clone);
+
+          // 随机移动克隆体
+          setInterval(() => {
+            clone.style.top = `${Math.random() * 60 - 30}px`;
+            clone.style.left = `${Math.random() * 60 - 30}px`;
+          }, 50 + Math.random() * 100);
+        }
+      }
+
+      // 核心高亮函数
+      function highlightAnchor(anchor) {
+        document.querySelectorAll('.highlight').forEach(el => {
+          el.classList.remove('highlighted', 'flashing', 'insane-highlight');
+          el.style = ''; // 重置内联样式
+
+          // 移除疯狂克隆体
+          document.querySelectorAll('.insane-highlight').forEach(clone => {
+            if (clone.parentNode) clone.parentNode.removeChild(clone);
+          });
+        });
+
+        const target = document.querySelector(anchor);
+        if (target) {
+          target.classList.add('highlighted', 'insane-highlight');
+
+          // 应用随机扭曲
+          applyRandomDistortion(target);
+
+          // 添加疯狂元素
+          addPsychoElements(target);
+
+          // 随机颜色变化
+          const colorInterval = setInterval(() => {
+            target.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
+          }, 100);
+
+          // 最终清理
+          setTimeout(() => {
+            target.classList.remove('insane-highlight');
+            target.style = '';
+            clearInterval(colorInterval);
+
+            // 移除所有克隆体
+            document.querySelectorAll('.insane-highlight').forEach(clone => {
+              if (clone.parentNode) clone.parentNode.removeChild(clone);
+            });
+          }, 4500);
+        }
+      }
+
+      // 初始化和事件监听
       if (window.location.hash) {
         highlightAnchor(window.location.hash);
       }
@@ -368,24 +536,6 @@
       window.addEventListener("hashchange", function () {
         highlightAnchor(window.location.hash);
       });
-
-      function highlightAnchor(anchor) {
-        document.querySelectorAll('.highlight').forEach(el => {
-          el.classList.remove('highlighted', 'flashing');
-        });
-
-        const target = document.querySelector(anchor);
-        if (target) {
-          target.classList.add('highlighted');
-          setTimeout(() => {
-            target.classList.add('flashing');
-          }, 500);
-
-          setTimeout(() => {
-            target.classList.remove('flashing');
-          }, 4500);
-        }
-      }
     });
   </script>
 
