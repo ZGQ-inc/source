@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="refresh" content="5;url=https://domain.zgqinc.gq">
+    <meta http-equiv="refresh" content="5;url=https://domain.zgqinc.gq">
     <title>404</title>
     <style>
         body {
@@ -853,7 +853,7 @@
         <span class='particle'>0</span>
         <span class='particle'>0</span>
         <span class='particle'>0</span>
-        <span class='particle'>0</span>        
+        <span class='particle'>0</span>
         <span class='particle'>0</span>
         <span class='particle'>0</span>
         <span class='particle'>0</span>
@@ -863,30 +863,31 @@
             <p><strong>请检查网址是否正确</strong></p>
             <p>
                 <button onclick="window.open('https://zgq-inc.github.io/overthefirewall')">点此重定向</button>
-                <div><a id="countdown">5</a><a id="txt">秒后自动重定向</a></div>
+            <div><a id="countdown">5</a><a id="txt">秒后自动重定向</a></div>
             </p>
         </article>
     </main>
 </body>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    <script>
-      let timeLeft = 4;
-      const countdown = setInterval(() => {
+<script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
+<script>
+    let timeLeft = 4;
+    const countdown = setInterval(() => {
         if (timeLeft == 0) {
-          clearInterval(countdown);
+            clearInterval(countdown);
         }
         document.getElementById("countdown").innerHTML = timeLeft;
         timeLeft--;
-      }, 1000);
-    </script>
-    <script>
-    setInterval(function() {
-  document.getElementById("countdown").innerHTML = "正在重定向......";
-}, 5000);
-   </script>
-   <script>
-    setInterval(function() {
-  document.getElementById("txt").innerHTML = "";
-}, 5000);
-   </script>
+    }, 1000);
+</script>
+<script>
+    setInterval(function () {
+        document.getElementById("countdown").innerHTML = "正在重定向......";
+    }, 5000);
+</script>
+<script>
+    setInterval(function () {
+        document.getElementById("txt").innerHTML = "";
+    }, 5000);
+</script>
+
 </html>

@@ -15,9 +15,9 @@ layout: default
 - 24767个书源
 
 > ~~书源文件有点大，导入时间取决于设备性能，请耐心等待。~~
-> 
+>
 > 最近发现导入时有概率导致应用卡死，原因是应用堆最大256MB，发生了OOM，现在拆分为多个文件，请逐个导入。
-> 
+>
 > 如果导入过慢，请连接代理或者本地导入。
 
 <a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json" class="btn-76" onclick="showText();">一键导入1<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a><br>
@@ -223,7 +223,7 @@ https://source-repo.zgqinc.gq/cospa/2023-02-01_590.txt
 ***
 
 > *以上所有源**失效不补**
-> 
+>
 > *包含NSFW内容。
 
 ***
