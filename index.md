@@ -98,13 +98,21 @@ Github项目：
 
 [更多fork](https://t.me/MihonReleases/112)
 
+<span id="Echo" class="highlight"></span>
+
+## Echo
+
+电报频道：
+
+[ZGQincLiqun/3501](https://t.me/ZGQincLiqun/3501)
+
 <span id="TVBox" class="highlight"></span>
 
 ## TVBox
 
 电报频道：
 
-[@Qiao_blog](https://t.me/Qiao_blog/521)
+[@Qiao_blog/521](https://t.me/Qiao_blog/521)
 
 <span id="Cimoc" class="highlight"></span>
 
