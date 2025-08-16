@@ -94,7 +94,7 @@ Github项目：
 
 [插件仓库](https://keiyoushi.github.io/extensions)
 
-[拷贝漫画插件](https://github.com/stevenyomi/copymanga)
+[拷贝漫画插件](https://github.com/stevenyomi/copymanga/issues/107)
 
 [更多fork](https://t.me/MihonReleases/112)
 
