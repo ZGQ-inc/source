@@ -390,15 +390,20 @@
     });
   </script>
   <script>
-    window.addEventListener('hashchange', () => {
-      const el = document.getElementById(location.hash.substring(1));
-      if (el) {
-        const offset = 15;
-        window.scrollTo({
-          top: el.offsetTop - offset,
-          behavior: 'smooth'
-        });
-      }
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const targetId = this.getAttribute('href').substring(1);
+        const targetEl = document.getElementById(targetId);
+        if (targetEl) {
+          const offset = 15;
+          const topPos = targetEl.offsetTop - offset;
+          window.scrollTo({
+            top: topPos,
+            behavior: 'smooth'
+          });
+        }
+      });
     });
   </script>
 
