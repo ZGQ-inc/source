@@ -12,7 +12,7 @@ layout: default
 
 - [**阅读3.0**下载地址](https://github.com/gedoor/legado)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-- 18180个书源
+- 28180个书源
 
 > ~~书源文件有点大，导入时间取决于设备性能，请耐心等待。~~
 >
