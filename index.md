@@ -12,7 +12,7 @@ layout: default
 
 - [**阅读3.0**下载地址](https://github.com/gedoor/legado)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-- 24767个书源
+- 18180个书源
 
 > ~~书源文件有点大，导入时间取决于设备性能，请耐心等待。~~
 >
@@ -25,6 +25,9 @@ layout: default
 <a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json" class="btn-76" onclick="showText();">一键导入3<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a><br>
 <a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json" class="btn-76" onclick="showText();">一键导入4<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a><br>
 <a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json" class="btn-76" onclick="showText();">一键导入5<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_6.json" class="btn-76" onclick="showText();">一键导入6<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_7.json" class="btn-76" onclick="showText();">一键导入7<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+<a href="yuedu://booksource/importonline?src=https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_8.json" class="btn-76" onclick="showText();">一键导入8<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 网络导入：
 
@@ -34,19 +37,18 @@ https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json
 https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json
 https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json
 https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_6.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_7.json
+https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_8.json
 </textarea>
 
 <button class="button" data-clipboard-action="copy" data-clipboard-target="#bar">点此复制</button>
 
 本地导入：
 
-[点击下载json文件压缩包1](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_1.json)<br>
-[点击下载json文件压缩包2](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_2.json)<br>
-[点击下载json文件压缩包3](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_3.json)<br>
-[点击下载json文件压缩包4](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_4.json)<br>
-[点击下载json文件压缩包5](https://source-repo.zgqinc.gq/legado3/bookSource/bookSource_5.json)
+[点击下载json文件压缩包](https://source-repo.zgqinc.gq/legado3/bookSource.zip)
 
-- 2695个RSS订阅源
+- 2904个RSS订阅源
 
 <a href="yuedu://rsssource/importonline?src=https://source-repo.zgqinc.gq/legado3/exportRssSource.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
@@ -60,19 +62,23 @@ https://source-repo.zgqinc.gq/legado3/exportRssSource.json
 
 本地导入：
 
-[点击下载json文件](https://source-repo.zgqinc.gq/legado3/exportRssSource.json)
+[点击下载json文件压缩包](https://source-repo.zgqinc.gq/legado3/exportRssSource.zip)
 
-- 335个TTS朗读引擎
+- 507个TTS朗读引擎
 
 <a href="yuedu://httpTTS/importonline?src=https://source-repo.zgqinc.gq/legado3/httpTts.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
-- 189个净化规则
+- 855个净化规则
 
 <a href="yuedu://replaceRule/importonline?src=https://source-repo.zgqinc.gq/legado3/exportReplaceRule.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
-- 29个目录规则
+- 35个目录规则
 
 <a href="yuedu://txtTocRule/importonline?src=https://source-repo.zgqinc.gq/legado3/txtTocRule.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
+
+- 29个字典规则
+
+<a href="yuedu://dictRule/importonline?src=https://source-repo.zgqinc.gq/legado3/dictRule.json" class="btn-76" onclick="showText();">一键导入<span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></a>
 
 源仓库：
 
